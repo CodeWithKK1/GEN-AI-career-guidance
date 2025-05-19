@@ -10,5 +10,6 @@ The backend is built using Python and Flask, while the frontend is designed usin
 This solution demonstrates how GenAI can democratize access to quality career guidance, enabling students to explore career paths aligned with their interests and skills. It also lays the groundwork for future enhancements like language support, audio input, and integration with educational platforms.
 
 This project showcases the real-world application of Generative AI in the education and social sector, highlighting its potential to create scalable and impactful solutions for youth empowerment.
+![image](https://github.com/user-attachments/assets/7dd133a5-014e-41a9-80ef-f697aec1fc8f)
 
-Let me know if you'd like this converted into a formatted PDF or added to your presentation.
+
